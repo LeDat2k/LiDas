@@ -1,0 +1,47 @@
+@media (max-width:1400px){
+    .dad > img{
+    width: 40%;
+    height: 100%;
+    border-top-right-radius:550px ;
+    border-bottom-right-radius: 550px;
+    position: fixed;
+    border-right: 10px double #787e7d;;
+    }
+    .home-content > h1, .home-content>h3,.page1{
+        font-size: 4rem;
+        margin-right: -80px;
+    }
+    .home-content{
+        margin-top: -10rem;
+    }
+    .head,.midterm,.last_right,.last_left{
+        font-size: 2.5rem;
+        margin-left: -250px;
+    }
+    .last_right,.last_left{
+        font-size: 2.5rem;
+        margin-top: -200px;
+    }
+    .icon{
+        position: relative;
+        left: 1290px;
+        top: 1370px;
+    }
+    .hobby{
+        margin-left: -200px !important;
+        margin-bottom: -100px !important;
+    }
+    .scroll-up{
+        margin-left: -100PX !important;
+        margin-top: -80px !important;
+    }
+    #shape {
+        position: relative;
+        left: 900px;
+        top: 615px;
+        height: 280px;
+        width: 190px;
+    }
+}
+
+
